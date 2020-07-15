@@ -6,6 +6,6 @@ I recreated these SVG icons to practice figma with slicing web page. Please note
 
 為了學習 figma 和網頁切版，我將這些元件重製為 SVG 檔案。我不擁有這些圖示。
 
-### 預覽 Preview
+[預覽頁面 Preview page](https://cybershota.github.io/facebook_UI_Icons_pack/preview)
 
 ---
