@@ -1,0 +1,16 @@
+{
+  "name": "facebook_ui_icon_pack",
+  "version": "1.0.0",
+  "description": "I recreated these icons to practice figma with slicing web page. Please noted I don't own these icons.",
+  "main": "preview.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "facebook",
+    "ui",
+    "icon"
+  ],
+  "author": "zangwang",
+  "license": "0BSD"
+}
